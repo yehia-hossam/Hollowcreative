@@ -1,0 +1,6 @@
+{
+  "name": "Hollowmere — A Night of Lanterns",
+  "description": "Every October the falls of Hollowmere run pale. Descend through the canyon, the crypts, the mill, and the cauldron halls to the lake of lanterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
