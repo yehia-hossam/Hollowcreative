@@ -1,21 +1,46 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+  <h1>Hollowcreative</h1>
+  <p>A modern, creative web experience built with TypeScript, React, and Vite.</p>
+  
+  <p>
+    <a href="https://hollowcreative.vercel.app/" target="_blank"><strong>🌐 Live Demo</strong></a>
+  </p>
 </div>
 
-# Run and deploy your AI Studio app
+<br />
 
-This contains everything you need to run your app locally.
+<!-- اسحب صورة السكرين شوت وأفلتها هنا ليقوم GitHub برفعها تلقائياً -->
+<div align="center">
+  <img src="https://github.com/yehia-hossam/Hollowcreative/blob/main/Screen%20Shot%20.png" alt="Hollowcreative Screenshot" width="100%" />
+</div>
 
-View your app in AI Studio: https://ai.studio/apps/d62aa9fa-d310-4c4f-8b25-6005603803a1
+---
 
-## Run Locally
+##  Features
 
-**Prerequisites:**  Node.js
+* **Modern UI/UX:** Clean, responsive, and interactive design tailored for creative showcases.
+* **Fast Performance:** Powered by Vite for instant server start and lightning-fast HMR.
+* **Type-Safe Codebase:** Built entirely with TypeScript for reliability and maintainability.
+* **Custom Typography:** Styled with custom local fonts for a distinct visual identity.
 
+##  Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-# Hollowcreative
+* **Frontend:** React, TypeScript
+* **Styling:** CSS3
+* **Build Tool:** Vite
+* **Deployment:** Vercel
+
+##  Getting Started
+
+Follow these steps to run the project locally on your machine:
+
+### Prerequisites
+
+* **Node.js** (v18 or higher recommended)
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/yehia-hossam/Hollowcreative.git](https://github.com/yehia-hossam/Hollowcreative.git)
+   cd Hollowcreative
